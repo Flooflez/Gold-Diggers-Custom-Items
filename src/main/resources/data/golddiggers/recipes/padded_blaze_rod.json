@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#/#"
+    ],
+    "key": {
+        "#": {
+            "item": "golddiggers:floof"
+        },
+        "/": {
+            "item": "minecraft:blaze_rod"
+        }
+    },
+    "result": {
+        "item": "golddiggers:padded_blaze_rod",
+        "count": 1
+    }
+}

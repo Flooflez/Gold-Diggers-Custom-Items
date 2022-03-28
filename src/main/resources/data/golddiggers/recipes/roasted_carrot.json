@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:carrot"
+    },
+    "result": "golddiggers:roasted_carrot",
+    "experience": 0.35,
+    "cookingtime": 200
+}

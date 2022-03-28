@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/T/",
+        "TNT",
+        "/T/"
+    ],
+    "key": {
+        "/": {
+            "item": "golddiggers:gold_rod"
+        },
+        "T": {
+            "item": "minecraft:tinted_glass"
+        },
+        "N": {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result": {
+        "item": "golddiggers:frozax_shield",
+        "count": 1
+    }
+}

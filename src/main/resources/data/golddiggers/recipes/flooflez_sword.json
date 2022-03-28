@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "#D#",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "golddiggers:floofy_netherite"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "/": {
+            "item": "golddiggers:padded_blaze_rod"
+        }
+    },
+    "result": {
+        "item": "golddiggers:flooflez_sword",
+        "count": 1
+    }
+}

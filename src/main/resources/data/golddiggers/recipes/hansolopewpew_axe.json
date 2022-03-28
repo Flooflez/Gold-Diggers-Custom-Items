@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#L#",
+        " N ",
+        " N "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:golden_axe"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        },
+        "N": {
+            "item": "golddiggers:netherite_stick"
+        }
+    },
+    "result": {
+        "item": "golddiggers:hansolopewpew_axe",
+        "count": 1
+    }
+}

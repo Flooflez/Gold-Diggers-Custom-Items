@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nDn",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "/": {
+            "item": "golddiggers:reinforced_bamboo_stick"
+        }
+    },
+    "result": {
+        "item": "golddiggers:alujjdnd_pickaxe",
+        "count": 1
+    }
+}

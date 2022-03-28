@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N#",
+        "N#N",
+        "#N#"
+    ],
+    "key": {
+        "#": {
+            "item": "golddiggers:floof"
+        },
+        "N": {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result": {
+        "item": "golddiggers:floofy_netherite",
+        "count": 2
+    }
+}

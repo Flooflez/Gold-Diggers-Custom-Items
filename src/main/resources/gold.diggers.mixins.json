@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.gold.diggers.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AttackOverrideMixin",
+    "LivingEntityOverrideMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

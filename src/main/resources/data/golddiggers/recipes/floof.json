@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "SWS",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:feather"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "W": {
+            "item": "minecraft:white_wool"
+        }
+    },
+    "result": {
+        "item": "golddiggers:floof",
+        "count": 5
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N#",
+        "N/N",
+        "#N#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:quartz"
+        },
+        "N": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "golddiggers:netherite_stick",
+        "count": 1
+    }
+}
